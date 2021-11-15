@@ -1,2 +1,2 @@
 # Python-budget-app
-A small python program created to track monthly expenses.
+A small budget application that takes into account the user's monthly net income and subtracts monthly bills and expenses. This program includes many variables that are used to store various values that are entered by the user. I used two functions that determine what the maximum and minimum expenses are by using if statements with the max and min function call for each expense variable. These functions will then return what value is max and min and that result is stored into two variables that are used inside of the last print message. For testing, I changed around what expenses were the most and least expensive for the month and tested float values for real-world accuracy.
